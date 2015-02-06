@@ -1,11 +1,14 @@
 # Storks
 
 We have seed data that is the minimum data required before our app can be used.
+
 We have seed data that is for running end-to-end tests.
+
 We have seed data that is for a specific customer.
+
 We have seed data that is for demos.
 
-This gem helps apply these different types of seed data.
+**This gem helps apply these different types of seed data in a common way**.
 
 ## Installation
 

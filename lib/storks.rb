@@ -1,4 +1,5 @@
 require 'storks/version'
+require 'storks/railtie' if defined?(Rails)
 
 module Storks
   require 'storks/seed_type'
