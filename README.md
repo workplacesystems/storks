@@ -15,16 +15,12 @@ We have seed data that is for demos.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'storks'
+gem 'storks', github: 'workplacesystems/storks'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install storks
 
 ## Usage
 
